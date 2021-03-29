@@ -4,6 +4,5 @@ describe("censorPalindrome", () => {
 
     expect(censorPalindromicWords).toEqual("A$$a went to vote in the election to fulfil her c$$$c duty");
     expect(censorPalindromicWords).not.toEqual("Anna went to vote in the election to fulfil her civic duty");
-
   })
 });
