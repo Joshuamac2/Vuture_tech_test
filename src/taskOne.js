@@ -8,3 +8,8 @@ function countElement(string, letter) {
   }
   return count;
 };
+
+// 1. Name variables better
+// 2. update sytax, i.e. count += 1; should be count++;
+// 3. charAt finds the exact index.
+// 4. write it in Es6

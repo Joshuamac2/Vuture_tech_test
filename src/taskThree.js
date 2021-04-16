@@ -9,3 +9,7 @@ function listedOccurrence(list, string) {
 
   return {...counter, ...pair};
 }
+
+
+// 1. the regex varible makes list = /dog|cat|large/g
+// 1. matches matchs the string vs the regex
